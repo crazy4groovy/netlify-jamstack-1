@@ -1,0 +1,48 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Donate:
+    url: //www.ae911truth.org/donate
+    icon: heart-o
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: AE911Truth
+
+# URL of the Home page image
+index_cover: http://www.ae911truth.org/templates/theme1898/images/template/header-bg.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon: //www.ae911truth.org/templates/theme1898/favicon.ico
+
+# Social Accounts
+twitter_url: https://twitter.com/ae911truth
+twitter_handle: ae911truth
+facebook_url: https://www.facebook.com/ae911truth
+github_url:
+gitlab_url:
+linkedin_url:
+mailto:
+
+# Google Webfonts
+webfonts1: Lora:400,700,400italic,700italic
+webfonts2: Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
