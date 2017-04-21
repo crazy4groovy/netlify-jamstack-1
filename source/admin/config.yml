@@ -1,3 +1,9 @@
+backend:
+  name: github
+  repo: crazy4groovy/netlify-jamstack-1 # Path to your Github repository
+  branch: master # Branch to update
+  site_domain: ae911t.netlify.com # Your Netlify site address if different from host
+
 #publish_mode: editorial_workflow
 media_folder: "public/img/uploads" # Where media files will be stored in the repo
 public_folder: "/img/uploads" # The src attribute for uploaded media
